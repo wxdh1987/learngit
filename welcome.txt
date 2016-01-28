@@ -2,5 +2,5 @@
 
 
 
-Git is a version control system!c
+Git is a version control system!
 Git is a free distrubit version control system.
